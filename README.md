@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/litesans)   
 ## Stats
 [![litesans's github trophy](https://github-profile-trophy.vercel.app/?username=litesans&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![litesans's github stats](https://github-readme-stats.vercel.app/api?username=litesans&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![litesans's github stats](https://github-readme-stats.vercel.app/api?username=litesans&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
 [![litesans's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litesans&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

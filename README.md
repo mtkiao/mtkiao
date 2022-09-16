@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/litesans)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=litesans&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **litesans/litesans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

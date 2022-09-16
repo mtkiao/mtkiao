@@ -1,4 +1,4 @@
-![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+![Profile views](https://gpvc.arturio.dev/litesans)
 
 <!--
 **litesans/litesans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

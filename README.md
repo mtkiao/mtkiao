@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/mtkiao)   
 ## Profile
 - 🌱 I’m currently learning C++, Rust
 - ⚡ Fun fact: Coding
